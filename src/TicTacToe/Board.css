@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(133, 94, 94);
+    color: white;
+}
+.board-conatiner{
+    margin: 100px;
+    width: 30%;
+    margin-left: 550px;
+    
+}
+  
+.board-row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+ }
+ 
+
+ 
